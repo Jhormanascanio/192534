@@ -34,7 +34,7 @@ public class EjercicioTerrible {
         byte j = x.nextByte();
         x.nextLine();
 
-        double y = (b + d + f + h + j) / 5;
+        double y = (b + d + f + h + j) / 5.0;
 
         System.out.println("Edad promedio de los estudiantes: " + y);
 
